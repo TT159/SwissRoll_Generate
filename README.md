@@ -8,9 +8,9 @@ When I wanted to search for some swiss-roll data sets with labels for machine le
 The following is the classic swiss roll data set (OriginClassicData.m). 
 ![Image text](https://github.com/TT159/SwissRoll_Generate/blob/86cc2cecdcb6f08ebb3f06e487e7a45e80e998b9/img_datasets/OriginSwiss.png)
 
-In my project, I focus on both 2 and 4 classes labeled data sets. I generate two different kinds of swiss roll data set. The one is derived from the classical swiss roll data set in which the data is generated uniformly (ClassicSwiss). 
-<div align=center><img width="600" height="400" src="https://user-images.githubusercontent.com/62274799/144723644-9b92084e-4bb3-49c2-bd8a-14599af4a966.png"/></div>  
+In my project, I focus on both 2 and 4 classes labeled data sets. I generate two different kinds of swiss roll data set. The one is derived from the classical swiss roll data set in which the data is generated uniformly (ClassicSwissRoll.m). 
+<div align=center><img width="600" height="400" src="https://github.com/TT159/SwissRoll_Generate/blob/80e17dc7eb4ca82f419efd797f68fb2a6c34295d/img_datasets/ClassicData.jpg"/></div>  
 
 The another one is the broken swiss roll. I constructed the broken swiss data sets in python code (BrokenSwissRoll.py) and plot it with MatLab (pythondata_plot.m).
-<div align=center><img width="600" height="400" src="https://user-images.githubusercontent.com/62274799/144723644-9b92084e-4bb3-49c2-bd8a-14599af4a966.png"/></div>  
+<div align=center><img width="600" height="400" src="https://github.com/TT159/SwissRoll_Generate/blob/80e17dc7eb4ca82f419efd797f68fb2a6c34295d/img_datasets/BrokenData.jpg"/></div>  
 
